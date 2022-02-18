@@ -1,0 +1,54 @@
+﻿.box1
+{
+   background: #fff;
+    width: 281px;
+    height: auto;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    padding: 10px;
+    border-radius: 15px;
+
+    margin: 111px;
+    margin-left: -143px;
+
+}
+.box2
+{
+background: #2e7ffc;
+    /* width: 251px; */
+    padding: 101px 12px;
+    border-radius: 10px;
+     height: 233px;
+}
+.promo
+{
+    background: #d5e1ef;
+    height:566px;
+}
+.one-img 
+{
+   margin-left: 59px;
+    padding: 1px;
+    width: 117px;
+
+  margin-top: -43px;
+}
+
+.improve
+{
+       color: #3e4b62;
+    font-weight: 3em;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 17px;
+    text-align: center;
+    line-height: 25px;
+}
+.improve1
+{
+    color:#8a8a8d;
+    text-align: center;
+    font-size: 10px;
+        text-align: center;
+    margin-top: -18px;
+}
